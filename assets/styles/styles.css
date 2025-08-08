@@ -715,7 +715,7 @@ body{
         box-shadow:rgba(63, 63, 63, 1) 4px 0 0 4px;
         border-radius: 3px;
         position: relative;
-        top: -1%;
+        top: 20%;
     }
 
     .react-player {
